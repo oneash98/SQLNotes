@@ -1,0 +1,1 @@
+Personal docs for studying SQL.
